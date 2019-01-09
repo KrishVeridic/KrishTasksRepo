@@ -1,0 +1,14 @@
+
+
+cd - Change directory
+mkdir - Create directory
+touch - Create file with optional content 
+rm - Delete file
+rmdir - Delete directory
+
+date - date
+ps - Current active processes
+
+to be continued
+
+
